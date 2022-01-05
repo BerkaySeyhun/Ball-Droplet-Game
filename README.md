@@ -18,6 +18,7 @@ their lives.
 The life gain/loss is summarized as the following formula:
 
 
-         | +1, if player clicks Ball
-life =   | +3, if player clicks Droplet
-         | −3, if Droplet hits floor
+          
+  | +3, if player clicks Droplet
+  Life = | −3, if Droplet hits floor
+  | +1, if player clicks Ball
