@@ -1,7 +1,7 @@
 # Ball-Droplet-Game
 
 >>---------------------------------------------------------------------------------<<
-                           Game of Ball/Droplets
+                                 Game of Ball/Droplets
 Ball/ Droplets is a game that players are challenged to stay alive while
 struggling with the moving objects causing their lives. The game ends when
 the player does not have any health remaining. The game contains two main
